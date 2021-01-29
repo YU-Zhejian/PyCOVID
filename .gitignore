@@ -1,0 +1,7 @@
+*.mp4
+*.mov
+*.pdf
+.idea/
+*.csv
+*.sql
+*.db
